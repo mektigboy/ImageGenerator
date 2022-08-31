@@ -1,1 +1,1 @@
-# ImageGenerator
+# Image Generator
